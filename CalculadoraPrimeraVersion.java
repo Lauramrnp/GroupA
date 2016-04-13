@@ -9,7 +9,7 @@ import javax.swing.*;
  *
  * @author JESUS
  */
-public class CalculadoraAIS {
+public class AIS {
 
  
         public boolean isNum(String n){//metodo para validar si se ha ingresado un numero, recibe una cadena de texto
